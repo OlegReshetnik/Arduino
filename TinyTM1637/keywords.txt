@@ -1,0 +1,9 @@
+TinyTM1637		KEYWORD1
+clear			KEYWORD2
+setBright		KEYWORD2
+writeByte		KEYWORD2
+writeBytes		KEYWORD2
+writeDigit		KEYWORD2
+colon			KEYWORD2
+writeTime		KEYWORD2
+writeInt		KEYWORD2
