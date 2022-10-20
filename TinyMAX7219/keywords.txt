@@ -1,0 +1,9 @@
+TinyMAX7219			KEYWORD1
+setBright			KEYWORD2
+fill				KEYWORD2
+dot					KEYWORD2
+get					KEYWORD2
+drawChar			KEYWORD2
+drawUtf8Char		KEYWORD2
+update				KEYWORD2
+setRotation			KEYWORD2
